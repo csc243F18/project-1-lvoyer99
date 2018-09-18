@@ -1,3 +1,9 @@
+//Author: Luke Voyer
+//Date: 9/17/2018
+//Program Name: CompoundInterest
+//Program Purpose: To take a principle amount and calculate compound interest on
+//				   an that principle based on a rate and time period in years.
+
 import java.text.NumberFormat;
 import java.util.Scanner;
 
